@@ -193,5 +193,3 @@ for p, alloc in processes.items():
 
 draw_nodes()
 print("\n🎓 Simulation Finished")
-
-# DRAW Reefa
