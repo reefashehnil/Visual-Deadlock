@@ -32,7 +32,7 @@ pos = {
 class DeadlockSimulatorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("🎉 Resource Allocation & Deadlock Simulator 🎉")
+        self.root.title(" Resource Allocation & Deadlock Simulator ")
         self.root.configure(bg="#f0f4f8")
         self.root.geometry("1300x900")
 
